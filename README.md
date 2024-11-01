@@ -1,16 +1,16 @@
-## IT'S DANGEROUS TO GO
-##  ALONE. TAKE THIS!
-
 ```console
-       .
-      / \
-      | |
-      | |
-      |.|
-      |.|
-      |:|
-      |:|
-    `--8--'
-       8
-       O
+IT'S DANGEROUS TO GO
+  ALONE. TAKE THIS!
+
+         .
+        / \
+        | |
+        | |
+        |.|
+        |.|
+        |:|
+        |:|
+      `--8--'
+         8
+         O
 ```
