@@ -1,6 +1,16 @@
-## who goes there?
+## IT'S DANGEROUS TO GO
+##  ALONE. TAKE THIS!
 
 ```console
-$ echo $MOOD
-¯\_(ツ)_/¯
+       .
+      / \
+      | |
+      | |
+      |.|
+      |.|
+      |:|
+      |:|
+    `--8--'
+       8
+       O
 ```
