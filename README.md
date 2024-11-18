@@ -1,6 +1,6 @@
 ```console
 IT'S DANGEROUS TO GO
-  ALONE. TAKE THIS!
+  ALONE! TAKE THIS.
 
          .
         / \
